@@ -48,6 +48,7 @@ After removing duplicates (723 duplicate rows), cleaned dataset contains 302 uni
 **Model Performance:**
 - Logistic Regression: **80.3% accuracy**, 0.871 ROC-AUC
 - Random Forest: 75.0% accuracy, 0.861 ROC-AUC
+- XGBoost: 72.1% accuracy, 0.832 ROC-AUC
 
 **Most Important Features:**
 1. Chest pain type (cp)
